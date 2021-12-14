@@ -1,12 +1,2 @@
-- 👋 Hi, I’m @StahAndreea
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+     I aspire to combining utility with pleasure, beauty,  and to capitalise on my artistic skills, to make a reality of my creative ideas and to find out more about web design field of activity, contributing to user’s experience as being both aestethically pleasing and functional, efficient. I’m convinced that there is a strong link with architecture: the design follows solving problems, needs and desires of the experience. 
 
-<!---
-StahAndreea/StahAndreea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-Hi
